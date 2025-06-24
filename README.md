@@ -55,6 +55,21 @@ This dashboard serves as a powerful visual tool to explore the Netflix content. 
 ## Dashboard:
 ![NetflixDashboard](https://github.com/user-attachments/assets/75fac91d-e7fc-4953-8836-29ef2c379884)
 ![Page1](https://github.com/user-attachments/assets/0efe9789-1a29-4b23-85b0-8ff994029d26)
+![MapPage2](https://github.com/user-attachments/assets/22df77ae-8d1f-45ce-a6cd-522e76ec7f48)
+![page3](https://github.com/user-attachments/assets/406fd2e3-72ea-4a85-b560-288001bfa279)
+![Page4](https://github.com/user-attachments/assets/50fa591a-e647-4855-977f-8cc225d445e4)
+![Page5ratings](https://github.com/user-attachments/assets/9d48a366-3576-4481-a9e9-d29079addd91)
+![Page6](https://github.com/user-attachments/assets/89ab4cf2-aa87-4160-911f-7e287b0daff7)
+![Page7](https://github.com/user-attachments/assets/99c9f422-6548-4665-a6fb-da3ddc9b88eb)
+![Page8](https://github.com/user-attachments/assets/be195e78-5dc3-4ee5-8bb6-291b39b55b48)
+![Page9](https://github.com/user-attachments/assets/5f447f18-c6bb-45fb-a046-1394df483a64)
+![Page10](https://github.com/user-attachments/assets/4cc52e5b-d91a-4252-9775-70b88bfb3063)
+![Page11](https://github.com/user-attachments/assets/ff47a0e6-d349-4370-9524-30de77f887b3)
+
+
+
+
+
 
 
 
