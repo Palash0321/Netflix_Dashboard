@@ -7,6 +7,7 @@ This project presents an interactive dashboard that visualizes key insights from
 ## 2. Tools Used
 
 * **Data Visualization Tool (e.g., Tableau):** Used to create the interactive dashboard.
+* **Data Used:** <a href = "https://github.com/Palash0321/Netflix_Dashboard/blob/main/netflix_titles.csv">Dataset</a>
   
 ## 3. Dashboard Explanation 
 
